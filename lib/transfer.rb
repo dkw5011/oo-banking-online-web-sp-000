@@ -1,3 +1,3 @@
 class Transfer
-  def initialize()
+  def initialize(transfers)
 end
